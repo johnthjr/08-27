@@ -1,0 +1,8 @@
+Hello World, I am editing a file in VSC
+I'm the man
+git - allows me to save folders  and files with extra features
+    - It is a form of "version control"
+
+github - allows me to share my git folders/repositories on the cloud
+
+git init - creates a repository with git
